@@ -3,7 +3,7 @@ import { Text, Surface, IconButton } from 'react-native-paper';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { useState, useRef, useEffect } from 'react';
 
-const WEATHER_API_KEY = '9876e14710db5da446d365937f06c955';
+const WEATHER_API_KEY = '';
 const CITY = 'Istanbul'; // Varsayılan şehir
 
 export default function HomeScreen({ navigation }) {
